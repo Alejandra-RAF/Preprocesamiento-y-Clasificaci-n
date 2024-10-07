@@ -1,4 +1,4 @@
------------------------------------------------------------ EXTRACCIÓN Y PREPROCESAMIENTO ---------------------------------------------------------
+----------------------------------------------------------- EXTRACCIÓN Y PREPROCESAMIENTO --------------------------------------------------------
 (Este apartado no es el principal, empezamos haciendolo para poder hacer la clasificacion pero durante la clase, la profesora proporciono las proteinas ya
 preprocesadas para aquellos que quisieran hacer clasificacion (nuestro caso) por lo que lo incluimos puesto que ya lo teniamos practicamente terminado.)
 
@@ -20,7 +20,7 @@ El programa es adecuado para analizar secuencias biológicas porque utiliza Biop
 un diccionario para un acceso rápido, y está organizado en funciones claras que facilitan su comprensión y modificación. Además, permite buscar codones de 
 inicio y terminación de forma sencilla, lo que es clave para entender la traducción de los genes.
 
-------------------------------------------------------------------- CLASIFICACIÓN -----------------------------------------------------------------
+------------------------------------------------------------------- CLASIFICACIÓN ---------------------------------------------------------------
 Este programa está basado en el caso 1 propuesto por la profesora, específicamente en el proceso de caso práctico "Modelos de clasificación".
 
 El programa se compone de varias funciones que serán necesarias para la clasificación de las proteínas. La primera función, leer_fasta, se encarga 
