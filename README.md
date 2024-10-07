@@ -21,6 +21,7 @@ un diccionario para un acceso rápido, y está organizado en funciones claras qu
 inicio y terminación de forma sencilla, lo que es clave para entender la traducción de los genes.
 
 ------------------------------------------------------------------- CLASIFICACIÓN ---------------------------------------------------------------
+
 Este programa está basado en el caso 1 propuesto por la profesora, específicamente en el proceso de caso práctico "Modelos de clasificación".
 
 El programa se compone de varias funciones que serán necesarias para la clasificación de las proteínas. La primera función, leer_fasta, se encarga 
