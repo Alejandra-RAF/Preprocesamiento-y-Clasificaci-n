@@ -20,7 +20,7 @@ El programa es adecuado para analizar secuencias biológicas porque utiliza Biop
 un diccionario para un acceso rápido, y está organizado en funciones claras que facilitan su comprensión y modificación. Además, permite buscar codones de 
 inicio y terminación de forma sencilla, lo que es clave para entender la traducción de los genes.
 
-------------------------------------------------------------------- CLASIFICACIÓN ---------------------------------------------------------------
+------------------------------------------------------------------- CLASIFICACIÓN -----------------------------------------------------------------
 
 Este programa está basado en el caso 1 propuesto por la profesora, específicamente en el proceso de caso práctico "Modelos de clasificación".
 
